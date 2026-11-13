@@ -1,0 +1,27 @@
+{
+  "name": "Sổ Tay Tiểu Thuyết Của Bi — Studio Sáng Tác Đa Nền Tảng",
+  "short_name": "Studio Tiểu Thuyết Bi",
+  "description": "Không gian sáng tác tiểu thuyết hiện đại dành cho tác giả Việt — Hỗ trợ AI 5 chế độ, Story Bible chống quên, duyệt thay đổi kiểu Google Docs, lưu trữ phiên bản Time-Machine và xuất sách PDF/DOCX chuyên nghiệp.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#09090B",
+  "theme_color": "#10B981",
+  "lang": "vi",
+  "categories": ["books", "productivity", "education", "utilities"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256'%3E%3Crect width='256' height='256' rx='56' fill='%2309090B'/%3E%3Crect x='12' y='12' width='232' height='232' rx='46' fill='none' stroke='%2310B981' stroke-width='8'/%3E%3Cpath d='M68 188V68h76c22 0 38 14 38 34 0 14-8 24-20 29 15 4 25 16 25 33 0 22-17 36-42 36H68z' fill='none' stroke='%2334D399' stroke-width='14' stroke-linejoin='round'/%3E%3Ccircle cx='188' cy='72' r='16' fill='%23F59E0B'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%2309090B'/%3E%3Crect x='24' y='24' width='464' height='464' rx='92' fill='none' stroke='%2310B981' stroke-width='16'/%3E%3Cpath d='M136 376V136h152c44 0 76 28 76 68 0 28-16 48-40 58 30 8 50 32 50 66 0 44-34 72-84 72H136z' fill='none' stroke='%2334D399' stroke-width='28' stroke-linejoin='round'/%3E%3Ccircle cx='376' cy='144' r='32' fill='%23F59E0B'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
